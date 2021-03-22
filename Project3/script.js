@@ -1,8 +1,4 @@
-// https://rawgraphs.io
 
-// DATA SET 
- // var d1 = "https://raw.githubusercontent.com/freemanbach/Python/master/python3/covid/worlddata/hungary/hun_test_data_rev.csv";
- //var d1 = "https://raw.githubusercontent.com/freemanbach/itec225/main/financedata/src/aapl/aapl_close_data_rev.csv"
 var d1 = "https://raw.githubusercontent.com/freemanbach/Python/master/python3/covid/worlddata/spain/spa_case_data_rev.csv"
 var d2 = "https://raw.githubusercontent.com/freemanbach/Python/master/python3/covid/worlddata/spain/spa_death_data_rev.csv"
 var d3 = "https://raw.githubusercontent.com/freemanbach/itec225/main/financedata/src/goog/goog_high_data_rev.csv"
